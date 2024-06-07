@@ -1,6 +1,7 @@
 **YouTube Analytics Dashboard**
 
 This repository contains the code for a YouTube Analytics Dashboard developed using Python and Streamlit. The dashboard provides insights into YouTube video performance metrics such as views, likes, subscribers, shares, comments, RPM (Revenue per Mille), engagement ratio, and more.
+Download the dataset [here](https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data)
 
 ### Setup Instructions:
 1. Clone the repository to your local machine.
@@ -40,7 +41,6 @@ This repository contains the code for a YouTube Analytics Dashboard developed us
 
 ### Contributors:
 - [Ken Jee GitHub Profile](https://github.com/PlayingNumbers)
-- [Dataset link](https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data)
   
 ### Future Enhancements:
 - Incorporate additional metrics and visualizations based on user feedback.
